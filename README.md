@@ -1,0 +1,2 @@
+# IoT-Based-Weather-and-Temperature-Monitoring-System
+IoT-Based Weather and Temperature Monitoring System uses sensors to measure parameters like temperature, humidity, and pressure, then transmits data to the cloud via Wi-Fi. Users can access real-time weather updates on a web or mobile app. It enables smart monitoring, forecasting, and early warnings for agriculture, cities, and disaster management.
